@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DumbPackage = "bb9acfe5-e752-4a58-8572-e1da7bfee4c5"
