@@ -2,7 +2,7 @@ using DumbPackage
 using Documenter
 
 DocMeta.setdocmeta!(DumbPackage, :DocTestSetup, :(using DumbPackage); recursive=true)
-
+ 
 makedocs(;
     modules=[DumbPackage],
     authors="OskarGustafsson",
