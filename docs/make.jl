@@ -16,7 +16,7 @@ makedocs(;
         "Home" => "index.md",
     ],
 )
-
+ 
 deploydocs(;
     repo="github.com/OskarGU/DumbPackage.jl",
     devbranch="master",
